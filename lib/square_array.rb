@@ -10,8 +10,6 @@ def square_array(array)
     counter += 1
   end
 
-  #print "results"
-  print results
   return results
 end
 
