@@ -14,7 +14,7 @@ def square_array(array)
   print results
 end
 
-#square_array(numbers)
+square_array(numbers)
 square_array(new_numbers)
 
 
