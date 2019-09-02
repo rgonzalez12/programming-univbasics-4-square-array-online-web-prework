@@ -12,6 +12,7 @@ def square_array(array)
 
   #print "results"
   print results
+  return results
 end
 
 square_array(numbers)
